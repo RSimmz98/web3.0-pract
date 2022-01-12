@@ -1,8 +1,11 @@
-
+A simple web app to see how smartworks work
 # Krypt - Web 3.0 Blockchain Application
+#Metamask
 # web3.0
 #Vite
 #React
+## Introduction
+Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
 
 npm run dev to start the server
 npm install react-icons ethers // ethers is the package that will allow interaction with block-chain
@@ -24,9 +27,6 @@ npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @n
   //metamask phrase to be removed ???????????? to be saved to notepad ...>>>stereo try coyote civil shed vocal flight base rain inmate pulp grunt
   use https://www.alchemy.com/ to deploy you site 
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
 
 
