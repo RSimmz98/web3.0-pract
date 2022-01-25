@@ -1,5 +1,5 @@
 A simple web app to see how smartworks work
-# Krypt - Web 3.0 Blockchain Application
+# Web 3.0 Blockchain Application
 #Metamask
 # web3.0
 #Vite
